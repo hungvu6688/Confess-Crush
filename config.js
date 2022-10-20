@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu Em nhiều nhiều 😘😘',
     messDesc: 'Chúc em yêu của anh có 1 ngày 20/10 thật vui vẻ. Chúc em ngày càng xinh đẹp, học giỏi và thành công với ước mơ của mình. Mãi yêu nhau em nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/thehung.vu.
+   
 
